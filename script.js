@@ -35,9 +35,9 @@ const CONFIG = {
 
   /* ══════ SOCIAL MEDIA & CONTACT PARAMETERS ══════ */
   contactPhone: "+201505646406",
-  contactPhoneLink: "tel:+201090414015",
+  contactPhoneLink: "tel:+201505646406",
   contactWhatsapp: "Loventa",
-  contactWhatsappLink: "https://wa.me/201090414015",
+  contactWhatsappLink: "https://wa.me/201505646406",
   contactTiktok: "loventa68",
   contactTiktokLink: "https://tiktok.com/@loventa68",
   contactInstagram: "love__nta",
